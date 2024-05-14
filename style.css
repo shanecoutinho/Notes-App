@@ -45,19 +45,22 @@
     margin-right: 8px;
 }
 
-.inputbox {
+.input-box {
     position: relative;
-    width: 100%;
+    width: 600px;
     max-height: 500px;
     min-height: 150px;
     color: #333;
     background: #fff;
+    padding: 20px;
     margin: 20px 0px;
     outline: none;
     border-radius: 5px;
 }
-.inputbox img {
+.input-box img {
+    width: 25px;
     position: absolute;
     bottom: 15px;
-    right: 5px;
+    right:15px;
+    cursor: pointer;
 }
