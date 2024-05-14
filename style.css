@@ -45,3 +45,19 @@
     margin-right: 8px;
 }
 
+.inputbox {
+    position: relative;
+    width: 100%;
+    max-height: 500px;
+    min-height: 150px;
+    color: #333;
+    background: #fff;
+    margin: 20px 0px;
+    outline: none;
+    border-radius: 5px;
+}
+.inputbox img {
+    position: absolute;
+    bottom: 15px;
+    right: 5px;
+}
